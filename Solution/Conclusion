@@ -1,0 +1,6 @@
+Conclusion
+
+Based on the Random Forest Regression model, the mean squared error is 1.1016680355128214, which indicates that the model is not very accurate in predicting fuel consumption. The consumption difference with E10 gas is 0.027154956686205475, which means that on average, the car consumes 0.027 liters more fuel per kilometer when using E10 gas compared to SP98 gas.
+
+
+
